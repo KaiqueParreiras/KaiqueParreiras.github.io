@@ -58,12 +58,14 @@
     width: 35px;
     height: 35px;
     margin-left: 30px;
+    cursor: pointer;
 }
 
 #logo_github {
     width: 35px;
     height: 35px;
     margin-left: 30px;
+    cursor: pointer;
 }
 
 #numero_whatsapp, #conta_linkedin, #conta_github {
