@@ -1,0 +1,72 @@
+.div_principal {
+    display: flex;
+    background-color: rgb(205, 232, 243);
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.MenuIndex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    padding: 10px;
+    padding-bottom: 50px;
+    
+}
+
+.Menu {
+    border: 1px solid black
+;
+}
+.titulo_curriculo {
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.texto {
+    margin-left: 15px;
+    font-size: 18px;
+}
+
+
+#foto {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 5px solid rgb(205, 232, 243);
+    margin-top: 5px;
+    position: absolute;
+    margin-left: 680px;
+}
+
+#logo_whats {
+    width: 35px;
+    height: 35px;
+    margin-left: 30px;
+    display: inline-block;
+    
+}
+
+#numero_whatsapp {
+    margin-bottom: 200px;
+    
+}
+
+#logo_linkedin {
+    width: 35px;
+    height: 35px;
+    margin-left: 30px;
+}
+
+#logo_github {
+    width: 35px;
+    height: 35px;
+    margin-left: 30px;
+}
+
+#numero_whatsapp, #conta_linkedin, #conta_github {
+    vertical-align: 50%;
+}
+
